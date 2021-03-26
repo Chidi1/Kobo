@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  kobo360app:
+    image: ${DOCKER_REGISTRY-}kobo360app
+    build:
+      context: .
+      dockerfile: kobo360app/Dockerfile
+  ports: 8080
+
+

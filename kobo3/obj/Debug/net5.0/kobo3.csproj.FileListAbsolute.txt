@@ -1,0 +1,15 @@
+/Users/chidi/Projects/kobo3/kobo3/bin/Debug/net5.0/kobo3.deps.json
+/Users/chidi/Projects/kobo3/kobo3/bin/Debug/net5.0/kobo3.runtimeconfig.json
+/Users/chidi/Projects/kobo3/kobo3/bin/Debug/net5.0/kobo3.runtimeconfig.dev.json
+/Users/chidi/Projects/kobo3/kobo3/bin/Debug/net5.0/kobo3.dll
+/Users/chidi/Projects/kobo3/kobo3/bin/Debug/net5.0/ref/kobo3.dll
+/Users/chidi/Projects/kobo3/kobo3/bin/Debug/net5.0/kobo3.pdb
+/Users/chidi/Projects/kobo3/kobo3/obj/Debug/net5.0/kobo3.csprojAssemblyReference.cache
+/Users/chidi/Projects/kobo3/kobo3/obj/Debug/net5.0/kobo3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chidi/Projects/kobo3/kobo3/obj/Debug/net5.0/kobo3.AssemblyInfoInputs.cache
+/Users/chidi/Projects/kobo3/kobo3/obj/Debug/net5.0/kobo3.AssemblyInfo.cs
+/Users/chidi/Projects/kobo3/kobo3/obj/Debug/net5.0/kobo3.csproj.CoreCompileInputs.cache
+/Users/chidi/Projects/kobo3/kobo3/obj/Debug/net5.0/kobo3.dll
+/Users/chidi/Projects/kobo3/kobo3/obj/Debug/net5.0/ref/kobo3.dll
+/Users/chidi/Projects/kobo3/kobo3/obj/Debug/net5.0/kobo3.pdb
+/Users/chidi/Projects/kobo3/kobo3/obj/Debug/net5.0/kobo3.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+services:
+  kobo360app:
+    build:
+      context: /Users/chidi/Projects/kobo3
+      dockerfile: kobo360app/Dockerfile
+    image: kobo360app
+version: '3.4'
